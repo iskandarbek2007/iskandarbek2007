@@ -4,7 +4,7 @@
 - 📊 Today: day 5 → FastAPI + PostgreSQL + Docker  
 - 🌱 Learning: asyncio, pytest, CI/CD  
 - 💬 Telegram: [@iskandarbek2007](https://t.me/iskandarbek2007)  
-- 📫 E-mail: iskandarbek2007@example.com  
+- 📫 E-mail: iskandarbek2007@gmail.com
 
 #### 🔥 This week goals
 - [x] Deploy first FastAPI service  
